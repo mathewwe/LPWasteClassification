@@ -1,0 +1,2 @@
+# ML Model
+This section contains the Jupyter Notebooks used for training the models, which themselves have several comments and denote their functionality. This folder also contains compiled .tflite files as well as those compiled for the Edge TPU. 
